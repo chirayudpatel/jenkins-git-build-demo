@@ -1,0 +1,3 @@
+Application Name: Jenkins Demo Application
+Purpose: Demonstrate GitHub source code retrieval and Jenkins build execution.
+Version: 1.0
